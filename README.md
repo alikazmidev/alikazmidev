@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Abbas Kazmi</h1>
+<h1 align="center">Hi 👋, I'm Ali Kazmi</h1>
 <h3 align="center">Learning Front End.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
