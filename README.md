@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ali Kazmi</h1>
+<h1 align="left">Hi 👋, I'm Ali Abbas Kazmi</h1>
 <h3 align="left">I do front-end and when I am not, probably working on Building mechanical Keyboards.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
